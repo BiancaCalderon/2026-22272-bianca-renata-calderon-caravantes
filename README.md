@@ -16,7 +16,7 @@ Guatemala: Gymify
 | [`capturas/`](capturas/) | 15 capturas de pantalla del sistema en funcionamiento |
 | [`demo/demo.mp4`](demo/demo.mp4) | Video demostrativo |
 | [`docs/informe_final.pdf`](docs/informe_final.pdf) | Informe final del proyecto |
-| [`docs/docs/Consentimiento-Uso-de-foto-y-Video.pdf`](docs/consentimiento_firmado.pdf) | Consentimiento de uso de foto y video firmado |
+| [`docs/consentimiento_firmado.pdf`](docs/consentimiento_firmado.pdf) | Consentimiento de uso de foto y video firmado |
 | [`src/`](src/) | Código fuente (backend en Go, frontend en React Native + Expo, base de datos y documentación técnica) |
 
 Variables de entorno de ejemplo: [`src/.env.example`](src/.env.example) (el mismo contenido que `src/backend/.env.example`). [`src/package.json`](src/package.json) agrupa los comandos del proyecto. Las dependencias del frontend están en [`src/frontend/package.json`](src/frontend/package.json) y las del backend en [`src/backend/go.mod`](src/backend/go.mod).
